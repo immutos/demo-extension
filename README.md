@@ -1,1 +1,1 @@
-# demo-extension
+# Immutos Extension Example
